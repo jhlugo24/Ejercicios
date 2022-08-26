@@ -1,0 +1,33 @@
+/* Estilos generales */
+
+*{
+    width: 90%;
+    margin: auto;
+    padding: 0.5%;
+    /* overflow-y: hidden; ---> para quitar barra de desplazar */
+
+}
+
+/* Clases colores*/
+
+.Titulo {
+
+    color: rgb(119, 154, 12);
+/*000 hex color - color hexadecimal*/
+
+}
+
+.Titulo2 {
+
+    color: rgb(177, 218, 235);
+/*000 hex color - color hexadecimal*/
+
+}
+
+.fondo {
+
+    background: rgb(60, 121, 234);
+    background-image: url(../img/R.jfif);
+    /* background-image: url(https://th.bing.com/th/id/R.73c2c83f9430514ac22f42579163e81a?rik=4Bm%2bSaz7%2bYQeyA&riu=http%3a%2f%2fimagenesparacelulares.net%2fwp-content%2fuploads%2f2014%2f09%2f416337.jpg&ehk=MxP5fi6mI7JZUUGbaZ3Yfpx0DB2oRrzWhcTFVToA5jA%3d&risl=&pid=ImgRaw&r=0); */
+
+}
